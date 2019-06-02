@@ -3,3 +3,10 @@ const helloWorld = function() {
 };
 
 console.log(helloWorld());
+
+
+const goodbye = function() {
+
+return 'goodbye world'
+}
+console.log(goodbye());
